@@ -1,0 +1,3 @@
+id,languageId,level,word,translation,meaning,category,example,difficulty,tags,status
+v-0001,en,B1,ability,habilidad,capacidad para hacer algo,Communication,She has the ability to speak three languages.,easy,nouns;spelling,active
+v-0002,en,B1,absence,ausencia,estado de no estar presente,Daily Life,His absence from the meeting was noticed.,hard,vocabulary;reading,active
